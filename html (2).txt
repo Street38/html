@@ -1,0 +1,173 @@
+<div class="w-full pb-4">
+   <div class="overflow-x-auto">
+      <table class="w-full">
+         <thead>
+            <tr class="h-15">
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 60px;">
+                  <div class="flex items-center py-3">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Side</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 140px;">
+                  <div class="flex items-center py-3">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Outcome</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 60px;">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Type</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Price</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 100px;">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Expiration</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Filled</p>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 90px;">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Status</p>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 180px;">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1 group cursor-pointer">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white">Order Placed Time</p>
+                        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal transition-normal group-hover:[--icon-color:var(--color-white)]" style="width: 12px; height: 12px;">
+                           <path d="M3.94881 3.94875L6.00006 1.89797L8.05132 3.94875C8.10463 3.99843 8.17515 4.02547 8.24801 4.02419C8.32087 4.0229 8.39039 3.99338 8.44192 3.94185C8.49345 3.89032 8.52297 3.82081 8.52426 3.74794C8.52554 3.67508 8.4985 3.60456 8.44882 3.55125L6.19882 1.30125C6.14608 1.24858 6.0746 1.21899 6.00006 1.21899C5.92553 1.21899 5.85405 1.24858 5.80132 1.30125L3.55131 3.55125C3.50163 3.60456 3.47459 3.67508 3.47587 3.74794C3.47716 3.82081 3.50668 3.89032 3.55821 3.94185C3.60974 3.99338 3.67926 4.0229 3.75212 4.02419C3.82498 4.02547 3.8955 3.99843 3.94881 3.94875Z" fill="var(--icon-color, #A7A7A7)"></path>
+                           <path d="M8.44882 8.05125C8.50148 8.10398 8.53107 8.17547 8.53107 8.25C8.53107 8.32453 8.50148 8.39601 8.44882 8.44875L6.19882 10.6987C6.14608 10.7514 6.0746 10.781 6.00006 10.781C5.92553 10.781 5.85405 10.7514 5.80132 10.6987L3.55131 8.44875C3.50163 8.39543 3.47459 8.32491 3.47587 8.25205C3.47716 8.17919 3.50668 8.10967 3.55821 8.05814C3.60974 8.00661 3.67926 7.97709 3.75212 7.97581C3.82498 7.97452 3.8955 8.00157 3.94881 8.05125L6.00006 10.102L8.05132 8.05125C8.10405 7.99858 8.17553 7.96899 8.25007 7.96899C8.3246 7.96899 8.39608 7.99858 8.44882 8.05125Z" fill="var(--icon-color, #A7A7A7)"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </th>
+               <th class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="width: 52px;">
+                  <div class="flex items-center py-3 justify-end">
+                     <div class="flex items-center gap-1">
+                        <p class="text-bodyM text-gray-3 font-normal transition-normal group-hover:text-white"></p>
+                     </div>
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr class="transition-normal h-15">
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 60px;">
+                  <div class="flex items-center py-2">
+                     <p class="text-bodyM truncate text-white">Sell</p>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 140px;">
+                  <div class="flex items-center py-2">
+                     <p title="50+ bps decrease - NO" class="text-bodyM truncate text-blue">50+ bps decrease - NO</p>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 60px;">
+                  <div class="flex items-center py-2 justify-end">
+                     <p class="text-bodyM truncate text-white">Limit</p>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5">
+                  <div class="flex items-center py-2 justify-end">
+                     <p class="text-bodyM font-monospace">99.8 ¢</p>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 100px;">
+                  <div class="flex items-center py-2 justify-end">
+                     <div class="flex-row flex items-center gap-1">
+                        <p class="text-bodyM">--</p>
+                     </div>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5">
+                  <div class="flex items-center py-2 justify-end">
+                     <div class="flex-row flex items-center gap-1">
+                        <p class="text-bodyM font-monospace">0</p>
+                        <p class="text-bodyM">/</p>
+                        <p class="text-bodyM font-monospace">4.6</p>
+                        <p class="text-bodyM text-gray-3">shares</p>
+                     </div>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 90px;">
+                  <div class="flex items-center py-2 justify-end">
+                     <div class="flex-row flex items-center gap-1">
+                        <div class="bg-yellow h-2 w-2 rounded-full"></div>
+                        <p class="text-bodyM">Pending</p>
+                     </div>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 180px;">
+                  <div class="flex items-center py-2 justify-end">
+                     <button data-scope="tooltip" data-part="trigger" id="tooltip:_r_c_:trigger" dir="ltr" data-state="closed" class="cursor-pointer hover:text-white">
+                        <p class="text-bodyM text-gray-3 underline decoration-dotted">Dec 09, 2025 19:11:35</p>
+                     </button>
+                  </div>
+               </td>
+               <td colspan="1" class="not-first:pl-1 not-last:pr-1 first:pl-5 last:pr-5" style="max-width: 52px;">
+                  <div class="flex items-center py-2 justify-end">
+                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal cursor-pointer" style="width: 20px; height: 20px;">
+                        <path d="M16.25 2.65625H3.75C3.45992 2.65625 3.18172 2.77148 2.9766 2.9766C2.77148 3.18172 2.65625 3.45992 2.65625 3.75V16.25C2.65625 16.5401 2.77148 16.8183 2.9766 17.0234C3.18172 17.2285 3.45992 17.3438 3.75 17.3438H16.25C16.5401 17.3438 16.8183 17.2285 17.0234 17.0234C17.2285 16.8183 17.3438 16.5401 17.3438 16.25V3.75C17.3438 3.45992 17.2285 3.18172 17.0234 2.9766C16.8183 2.77148 16.5401 2.65625 16.25 2.65625ZM16.4062 16.25C16.4062 16.2914 16.3898 16.3312 16.3605 16.3605C16.3312 16.3898 16.2914 16.4062 16.25 16.4062H3.75C3.70856 16.4062 3.66882 16.3898 3.63951 16.3605C3.61021 16.3312 3.59375 16.2914 3.59375 16.25V3.75C3.59375 3.70856 3.61021 3.66882 3.63951 3.63951C3.66882 3.61021 3.70856 3.59375 3.75 3.59375H16.25C16.2914 3.59375 16.3312 3.61021 16.3605 3.63951C16.3898 3.66882 16.4062 3.70856 16.4062 3.75V16.25ZM12.8313 7.83125L10.6625 10L12.8313 12.1687C12.8773 12.2117 12.9142 12.2634 12.9399 12.3209C12.9655 12.3784 12.9793 12.4405 12.9804 12.5034C12.9815 12.5664 12.9699 12.6289 12.9463 12.6872C12.9228 12.7456 12.8877 12.7986 12.8431 12.8431C12.7986 12.8877 12.7456 12.9228 12.6872 12.9463C12.6289 12.9699 12.5664 12.9815 12.5034 12.9804C12.4405 12.9793 12.3784 12.9655 12.3209 12.9399C12.2634 12.9142 12.2117 12.8773 12.1687 12.8313L10 10.6625L7.83125 12.8313C7.74239 12.9141 7.62486 12.9591 7.50342 12.957C7.38199 12.9548 7.26612 12.9056 7.18024 12.8198C7.09435 12.7339 7.04516 12.618 7.04302 12.4966C7.04087 12.3751 7.08595 12.2576 7.16875 12.1687L9.3375 10L7.16875 7.83125C7.08595 7.74239 7.04087 7.62486 7.04302 7.50342C7.04516 7.38199 7.09435 7.26612 7.18024 7.18024C7.26612 7.09435 7.38199 7.04516 7.50342 7.04302C7.62486 7.04087 7.74239 7.08595 7.83125 7.16875L10 9.3375L12.1687 7.16875C12.2576 7.08595 12.3751 7.04087 12.4966 7.04302C12.618 7.04516 12.7339 7.09435 12.8198 7.18024C12.9056 7.26612 12.9548 7.38199 12.957 7.50342C12.9591 7.62486 12.9141 7.74239 12.8313 7.83125Z" fill="var(--icon-color, #D73028)"></path>
+                     </svg>
+                  </div>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <nav id="pagination:_r_d_" data-scope="pagination" data-part="root" dir="ltr" aria-label="pagination" class="flex items-center justify-center gap-3 mt-4">
+      <button id="pagination:_r_d_:prev" data-scope="pagination" data-part="prev-trigger" dir="ltr" data-disabled="" aria-label="previous page" disabled="" type="button" class="flex h-6 w-6 cursor-pointer items-center justify-center rounded border-0 p-1 transition-normal [&amp;:not([data-disabled])]:hover:bg-white-06 data-[disabled]:cursor-not-allowed data-[disabled]:opacity-60">
+         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal shrink-0" style="width: 20px; height: 20px;">
+            <path d="M12.8313 15.9188C12.8774 15.9617 12.9143 16.0134 12.9399 16.0709C12.9656 16.1284 12.9793 16.1905 12.9804 16.2535C12.9816 16.3164 12.97 16.3789 12.9464 16.4373C12.9228 16.4956 12.8877 16.5487 12.8432 16.5932C12.7987 16.6377 12.7457 16.6728 12.6873 16.6964C12.629 16.7199 12.5664 16.7315 12.5035 16.7304C12.4406 16.7293 12.3785 16.7155 12.321 16.6899C12.2635 16.6643 12.2117 16.6273 12.1688 16.5813L5.91883 10.3313C5.83104 10.2434 5.78174 10.1242 5.78174 10C5.78174 9.87581 5.83104 9.75667 5.91883 9.66878L12.1688 3.41878C12.2577 3.33598 12.3752 3.2909 12.4967 3.29304C12.6181 3.29518 12.734 3.34438 12.8198 3.43026C12.9057 3.51615 12.9549 3.63201 12.9571 3.75345C12.9592 3.87489 12.9141 3.99242 12.8313 4.08128L6.91336 10L12.8313 15.9188Z" fill="var(--icon-color, #A7A7A7)"></path>
+         </svg>
+      </button>
+      <div class="flex items-center gap-0.5"><button id="pagination:_r_d_:item:1" data-scope="pagination" data-part="item" dir="ltr" data-index="1" data-selected="" aria-current="page" aria-label="page 1" type="button" class="text-bodyM text-gray-3 flex h-6 w-6 cursor-pointer items-center justify-center rounded transition-normal hover:bg-white-06 data-[selected]:bg-white-1 data-[selected]:text-white">1</button></div>
+      <button id="pagination:_r_d_:next" data-scope="pagination" data-part="next-trigger" dir="ltr" data-disabled="" aria-label="next page" disabled="" type="button" class="flex h-6 w-6 cursor-pointer items-center justify-center rounded border-0 p-1 transition-normal [&amp;:not([data-disabled])]:hover:bg-white-06 data-[disabled]:cursor-not-allowed data-[disabled]:opacity-60">
+         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal shrink-0" style="width: 20px; height: 20px;">
+            <path d="M5.93088 15.9188C5.88483 15.9617 5.84789 16.0134 5.82227 16.0709C5.79665 16.1284 5.78287 16.1905 5.78176 16.2535C5.78065 16.3164 5.79223 16.3789 5.8158 16.4373C5.83938 16.4956 5.87447 16.5487 5.91898 16.5932C5.96349 16.6377 6.01652 16.6728 6.07488 16.6964C6.13325 16.7199 6.19577 16.7315 6.25871 16.7304C6.32165 16.7293 6.38372 16.7155 6.44122 16.6899C6.49872 16.6643 6.55047 16.6273 6.59338 16.5813L12.8434 10.3313C12.9312 10.2434 12.9805 10.1242 12.9805 10C12.9805 9.87581 12.9312 9.75667 12.8434 9.66878L6.59338 3.41878C6.50452 3.33598 6.38699 3.2909 6.26555 3.29304C6.14412 3.29518 6.02825 3.34438 5.94237 3.43026C5.85648 3.51615 5.80729 3.63201 5.80515 3.75345C5.803 3.87489 5.84808 3.99242 5.93088 4.08128L11.8489 10L5.93088 15.9188Z" fill="var(--icon-color, #A7A7A7)"></path>
+         </svg>
+      </button>
+   </nav>
+</div>
