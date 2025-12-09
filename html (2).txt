@@ -1,17 +1,17 @@
 <div class="chakra-accordion__item css-1kui86y">
-   <button type="button" id="accordion-button-_r_m_" aria-expanded="true" aria-controls="accordion-panel-_r_m_" class="chakra-accordion__button css-1cnzfi3" data-index="0">
+   <button type="button" id="accordion-button-_r_1i_" aria-expanded="true" aria-controls="accordion-panel-_r_1i_" class="chakra-accordion__button css-1cnzfi3" data-index="0">
       <div class="css-ykndue">
          <div class="flex-col flex flex-1 items-start gap-0.5">
             <p class="text-bodyL truncate font-medium text-white">50+ bps decrease</p>
          </div>
-         <p class="text-bodyL font-monospace w-45 text-right">$339,234,583.88 </p>
+         <p class="text-bodyL font-monospace w-45 text-right">$339,146,891.76 </p>
          <div class="flex-row flex flex-1 items-center gap-2">
-            <p class="text-bodyL font-monospace flex-1 text-right">0.3%</p>
+            <p class="text-bodyL font-monospace flex-1 text-right">0.4%</p>
             <div class="flex-row flex flex-1">
                <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="transition-normal" style="width: 20px; height: 20px;">
                   <path d="M15.5201 9.35397C15.4737 9.40045 15.4185 9.43733 15.3578 9.46249C15.2972 9.48766 15.2321 9.50061 15.1664 9.50061C15.1007 9.50061 15.0356 9.48766 14.9749 9.46249C14.9142 9.43733 14.8591 9.40045 14.8127 9.35397L11.1667 5.70721V15.5C11.1667 15.6326 11.114 15.7598 11.0202 15.8536C10.9265 15.9473 10.7993 16 10.6667 16C10.5341 16 10.4069 15.9473 10.3132 15.8536C10.2194 15.7598 10.1667 15.6326 10.1667 15.5V5.70721L6.52072 9.35397C6.4269 9.44779 6.29967 9.50049 6.16699 9.50049C6.03432 9.50049 5.90708 9.44779 5.81327 9.35397C5.71945 9.26015 5.66675 9.13291 5.66675 9.00023C5.66675 8.86755 5.71945 8.74031 5.81327 8.64649L10.313 4.14664C10.3594 4.10015 10.4145 4.06327 10.4752 4.03811C10.5359 4.01295 10.601 4 10.6667 4C10.7324 4 10.7975 4.01295 10.8581 4.03811C10.9188 4.06327 10.974 4.10015 11.0204 4.14664L15.5201 8.64649C15.5666 8.69293 15.6035 8.74807 15.6286 8.80877C15.6538 8.86946 15.6667 8.93452 15.6667 9.00023C15.6667 9.06594 15.6538 9.131 15.6286 9.19169C15.6035 9.25239 15.5666 9.30753 15.5201 9.35397Z" fill="var(--icon-color, #00D40E)"></path>
                </svg>
-               <p class="text-bodyM font-monospace text-green-2">0%</p>
+               <p class="text-bodyM font-monospace text-green-2">33.33%</p>
             </div>
          </div>
          <div class="flex-row flex min-w-0 flex-1 items-center gap-3">
@@ -30,7 +30,7 @@
       </div>
    </button>
    <div class="chakra-collapse" style="overflow: hidden; display: block; opacity: 1; height: auto;">
-      <div role="region" id="accordion-panel-_r_m_" aria-labelledby="accordion-button-_r_m_" class="chakra-accordion__panel css-1g462fx">
+      <div role="region" id="accordion-panel-_r_1i_" aria-labelledby="accordion-button-_r_1i_" class="chakra-accordion__panel css-1g462fx">
          <div class="flex-row flex w-full gap-3">
             <div class="flex-col flex h-[162px] flex-1 gap-1" data-sentry-element="Stack" data-sentry-component="Orderbook" data-sentry-source-file="Orderbook.tsx">
                <div class="flex-col flex border-gray-1 h-[142px] overflow-hidden rounded-lg border px-2" data-sentry-element="Stack" data-sentry-source-file="Orderbook.tsx">
@@ -49,377 +49,369 @@
                   <div class="flex-col flex min-h-0 flex-1 flex-row!" data-sentry-element="Stack" data-sentry-source-file="Orderbook.tsx">
                      <div class="flex-col flex w-full flex-1 overflow-y-auto" data-sentry-element="Stack" data-sentry-source-file="Orderbook.tsx">
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 1.24291%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 1.55961%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">45,773.08</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">45,956.91 </p>
-                              <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.6 ¢</p>
-                           </div>
-                        </div>
-                        <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 2.89853%;"></div>
-                           <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">106,744.93</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">61,278.23 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">59,713.32</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">60,013.38 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.5 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 3.88268%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 2.59157%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">142,988.25</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">36,462.09 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">99,224.24</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">39,749.41 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.4 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 3.90028%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 2.60416%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">143,636.44</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">652.76 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">99,706.26</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">485.42 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.3 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 5.6832%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 4.3191%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">209,296.63</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">165,366.45</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">66,189.70 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.2 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 6.02777%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 4.65053%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">221,986.05</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">178,055.87</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">12,804.67 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99.1 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.0408%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 17.1673%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">701,218.32</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">657,288.14</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">484,073.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">99 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.1896%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 17.5394%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">706,700.16</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">5,542.80 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">671,536.11</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">14,406.43 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">98.9 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 20.336%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 18.642%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">748,916.77</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">713,752.72</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">42,729.36 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">98.8 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 20.777%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.0662%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">765,157.96</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">729,993.91</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">16,455.11 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">98.7 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 20.8031%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.0914%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">766,121.09</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">730,957.04</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">977.79 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">98.5 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.0438%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.3229%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">774,985.62</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">739,821.57</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">9,045.43 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">98 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.0793%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.357%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">776,290.79</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">741,126.74</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">1,334.53 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">97.8 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.0811%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.3587%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">776,357.24</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">741,193.19</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">68.22 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">97.4 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.2057%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.4786%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">780,946.66</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">745,782.61</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">4,731.36 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">97 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.2103%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 19.4831%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">781,116.66</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">745,952.61</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">175.98 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">96.6 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6327%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.8131%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">870,328.21</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">835,164.16</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">92,832.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">96.1 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7631%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.9385%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">875,128.21</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">839,964.16</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">5,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">96 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7642%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.9395%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">875,168.21</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">840,004.16</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">41.71 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">95.9 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7655%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 21.9408%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">875,218.21</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">840,054.16</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">52.19 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">95.8 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.8517%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.0237%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">878,391.23</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">843,227.18</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">3,333.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">95.2 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.0825%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.2457%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">886,891.98</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">851,727.93</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">8,948.16 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">95 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.335%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.4886%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">896,191.98</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">861,027.93</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">10,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">93 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.3391%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.4925%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">896,340.10</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">861,176.05</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">161.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">92 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.3408%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.4941%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">896,402.67</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">861,238.62</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">68.53 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">91.3 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.4643%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.613%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">900,952.67</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">865,788.62</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">5,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">91 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.466%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.6146%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">901,015.02</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">865,850.97</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">68.75 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">90.7 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.4693%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 22.6177%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">901,135.48</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">865,971.43</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">133.54 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">90.2 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9237%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.0549%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">917,871.20</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">882,707.15</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">18,595.25 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">90 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9241%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.0552%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">917,884.55</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">882,720.50</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">15.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">89 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9257%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.0568%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">917,944.41</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">882,780.36</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">68.73 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">87.1 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9296%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.0605%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">918,086.71</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">882,922.66</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">167.41 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">85 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9405%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.071%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">918,490.35</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">883,326.30</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">504.55 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">80 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.98%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.109%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">919,944.60</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">884,780.55</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">2,423.74 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">60 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9822%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.1111%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">920,026.49</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">884,862.44</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">148.90 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">55 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 24.9961%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.1245%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">920,537.97</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">885,373.92</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">1,022.95 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">50 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5392%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6469%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">940,537.95</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">905,373.90</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">111,111.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">18 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5525%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6597%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">941,028.74</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">905,864.69</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">2,887.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">17 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5556%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6627%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">941,142.95</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">905,978.90</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">761.41 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">15 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5692%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6757%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">941,642.97</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">906,478.92</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">5,000.17 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">10 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5776%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6838%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">941,952.97</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">906,788.92</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">10,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">3.1 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5817%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6878%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">942,102.97</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">906,938.92</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">5,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">3 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5938%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6993%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">942,546.97</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">907,382.92</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">17,760.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">2.5 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5941%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.6997%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">942,559.30</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">907,395.24</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">586.90 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">2.1 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.5995%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7049%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">942,759.30</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">907,595.24</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">10,000.00 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">2 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.6001%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7055%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">942,782.30</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">907,618.24</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">4,599.99 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">0.5 ¢</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pr-2">
-                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 25.6064%;"></div>
+                           <div class="bg-green-2-1 absolute top-0 right-0 h-full" style="width: 23.7115%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS font-monospace flex-1 text-left">943,013.60</p>
+                              <p class="text-bodyS font-monospace flex-1 text-left">907,849.55</p>
                               <p class="text-bodyS font-monospace flex-1 text-center">231,308.63 </p>
                               <p class="text-bodyS text-green-2 font-monospace w-17 text-right">0.1 ¢</p>
                            </div>
@@ -427,27 +419,35 @@
                      </div>
                      <div class="flex-col flex w-full flex-1 overflow-y-auto" data-sentry-element="Stack" data-sentry-source-file="Orderbook.tsx">
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pl-2">
-                           <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 43.9066%;"></div>
+                           <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 3.71709%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
-                              <p class="text-bodyS text-red font-monospace w-17">99.7 ¢</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">1,621,824.75 </p>
-                              <p class="text-bodyS font-monospace flex-1 text-right">1,616,959.27</p>
+                              <p class="text-bodyS text-red font-monospace w-17">99.6 ¢</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">142,888.81 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-right">142,317.26</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pl-2">
-                           <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 48.2761%;"></div>
+                           <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 46.0752%;"></div>
+                           <div class="flex-row flex w-full items-center justify-between">
+                              <p class="text-bodyS text-red font-monospace w-17">99.7 ¢</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">1,626,655.84 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-right">1,764,093.14</p>
+                           </div>
+                        </div>
+                        <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pl-2">
+                           <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 50.2782%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
                               <p class="text-bodyS text-red font-monospace w-17">99.8 ¢</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">161,238.12 </p>
-                              <p class="text-bodyS font-monospace flex-1 text-right">1,777,874.93</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">161,242.72 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-right">1,925,013.38</p>
                            </div>
                         </div>
                         <div class="flex-row flex relative h-6 w-full shrink-0 justify-between pl-2">
                            <div class="bg-red-1 absolute top-0 left-0 h-full" style="width: 100%;"></div>
                            <div class="flex-row flex w-full items-center justify-between">
                               <p class="text-bodyS text-red font-monospace w-17">99.9 ¢</p>
-                              <p class="text-bodyS font-monospace flex-1 text-center">1,906,754.90 </p>
-                              <p class="text-bodyS font-monospace flex-1 text-right">3,682,723.07</p>
+                              <p class="text-bodyS font-monospace flex-1 text-center">1,905,617.53 </p>
+                              <p class="text-bodyS font-monospace flex-1 text-right">3,828,725.29</p>
                            </div>
                         </div>
                      </div>
